@@ -1,6 +1,6 @@
 # Neural networks | SPBSTU [lab work]
 
-Assignment to the Machine Learning course at SPbPU.
+Assignment to the Machine Learning course at SPBSTU.
 
 # Classification task
 It is necessary to create a NN of four layers, setting for all but the last layer a fast calculable activation function RELU. Also create and train (fixing the time taken) at least 3 more neural network models: 
